@@ -29,6 +29,8 @@ function App() {
   return (
     <div className="App">
 
+      <h1>Country Information</h1>
+
   <h1>Country Loaded : {countries.length}</h1>
       <h1>Countries {cart.length}</h1>
 
